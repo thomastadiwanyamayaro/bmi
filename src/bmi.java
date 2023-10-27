@@ -6,7 +6,7 @@ public class bmi {
         Scanner sc = new Scanner(System.in);
         double height  , mass, BMI;//
 
-        System.out.println("please enter height in meters");
+        System.out.println("please enter height in meters");//
          height = sc.nextDouble();
 
         System.out.println("please enter mass in kg");
