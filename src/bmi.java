@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class bmi {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-        double height  , mass, BMI;
+        double height  , mass, BMI;//
 
         System.out.println("please enter height in meters");
          height = sc.nextDouble();
